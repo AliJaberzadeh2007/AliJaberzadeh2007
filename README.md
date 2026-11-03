@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Fariba
 
-<!--
-**AliJaberzadeh2007/AliJaberzadeh2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a beginner Front-End Developer.
 
-Here are some ideas to get you started:
+### 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+
+### 📚 Currently Learning
+
+* JavaScript
+* Responsive Design
+* Web Development
+
+### 🎯 Goals
+
+* Improve my coding skills
+* Build creative projects
+* Become a professional developer
+
+---
+
+⭐ Thanks for visiting my GitHub!
